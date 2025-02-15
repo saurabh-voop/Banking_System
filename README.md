@@ -62,9 +62,5 @@ Ensure you have Python installed on your system.
 - Include graphical reports for financial analysis.
 - Integrate a database for persistent data storage.
 
-## License
-This project is licensed under the MIT License.
 
-## Author
-Developed by [Your Name]
 
